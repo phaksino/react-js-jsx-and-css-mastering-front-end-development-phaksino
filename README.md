@@ -15,3 +15,9 @@ A responsive React application built with Vite, featuring task management, API i
 1. Install dependencies:
 ```bash
 npm install
+
+## Deployed url
+https://react-js-jsx-and-css-mastering-fron-tan.vercel.app/
+
+## Project screenshot
+<img width="1214" height="684" alt="image" src="https://github.com/user-attachments/assets/01354361-c178-4e41-b8b8-0372d294b501" />
